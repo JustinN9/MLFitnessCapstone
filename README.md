@@ -1,5 +1,5 @@
 # Kinsee
-## a Machine Learning Driven Home Workout App
+## A Machine Learning Driven Home Workout App
 Authors:
 - Reyes Palomera Becerra
 - Huu Huynh
